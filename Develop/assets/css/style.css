@@ -1,3 +1,4 @@
+/* GENERIC FULL PAGE FORMATTING BEGINS */
 * {
     box-sizing: border-box;
     padding: 0;
@@ -8,6 +9,13 @@ body {
     background-color: #d9dcd6;
 }
 
+p {
+    font-size: 16px;
+}
+/* GENERIC FULL PAGE FORMATTING ENDS */
+
+
+/* HEADER FORMATTING BEINGS */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -41,7 +49,10 @@ a {
     color: #ffffff;
     text-decoration: none;
 }
+/* HEADER FORMATTING ENDS */
 
+
+/* HERO FORMATTING BEGINS */
 .hero {
     height: 800px;
     width: 100%;
@@ -50,11 +61,10 @@ a {
     background-size: cover;
     background-position: center;
 }
+/* HERO FORMATTING ENDS */
 
-p {
-    font-size: 16px;
-}
 
+/* CONTENT FORMATTING BEGINS */
 .content {
     width: 75%;
     display: inline-block;
@@ -88,7 +98,10 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+/* CONTENT FORMATTING ENDS */
 
+
+/* BENEFITS FORMATTING BEGINS */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -115,7 +128,10 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+/* BENEFITS FORMATTING ENDS */
 
+
+/* FOOTER FORMATTING BEGINS */
 footer {
     padding: 30px;
     clear: both;
@@ -126,3 +142,4 @@ footer {
 footer h4 {
     font-size: 20px;
 }
+/* FOOTER FORMATTING ENDS */
