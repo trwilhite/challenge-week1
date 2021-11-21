@@ -11,7 +11,7 @@ The starter code for the homepage did not include semantic HTML elements. There 
 *CSS
 
 ## Website
-
+https://trwilhite.github.io/challenge-week1/
 
 ## Screenshot
 
