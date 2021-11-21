@@ -14,7 +14,7 @@ The starter code for the homepage did not include semantic HTML elements. There 
 https://trwilhite.github.io/challenge-week1/
 
 ## Screenshot
-
+![Screenshot](./Develop/assets/images/final-site-screenshot.jpeg?raw=true "Screenshot")
 
 ## Contribution
 Made with ❤️️ by Tamara Wilhite
